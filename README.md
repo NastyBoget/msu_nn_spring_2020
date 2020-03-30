@@ -2,9 +2,7 @@
 
 ## Лекции и семинары по курсу "Нейронные сети в машинном обучении" 
 
-Видеолекции: 
-
-https://www.youtube.com/redirect?redir_token=04Ut759Gg7LueJani_7SOhMzQB98MTU4NTY1NTQxM0AxNTg1NTY5MDEz&event=video_description&v=Am82yvUSwRE&q=https%3A%2F%2Fgoo.gl%2FB7L5p6
+[Видеолекции](https://www.youtube.com/playlist?list=PLrCZzMib1e9oOGNLh6_d65HyfdqlJwTQP)
 
 1) Основы нейронных сетей
 
