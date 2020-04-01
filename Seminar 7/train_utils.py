@@ -28,8 +28,8 @@ def _epoch(network, loss, loader,
         loss_batch = loss(prediction, y)
         losses.append(loss_batch.cpu().item())
         if backward:
-            loss_batch.backward()
-            optimizer.step()
+            #loss_batch.backward()
+            optimizer.step(lambda :loss(prediction, y))
         prediction = prediction.max(1)[1]
         accuracies.append((prediction==y).cpu().float().numpy().mean())
     return losses, accuracies
