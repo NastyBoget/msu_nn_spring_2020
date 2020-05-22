@@ -20,17 +20,17 @@
 
 8) Рекуррентные нейронные сети
 
-9) Обработка естественного языка
+9) [Обработка естественного языка](https://youtu.be/ykhDL9Yv7mg)
 
-10) Современные модели для NLP
+10) [Современные модели для NLP](https://youtu.be/9VIJObWvQc4)
 
-11) Соперничающие сети (GAN)
+11) [Соперничающие сети (GAN)](https://mailru.zoom.us/rec/play/vJMsJbyv_G43HdCUtwSDAPBwW9S1K6ms0XJP__AKn0zkUHNRN1v0M7YWYOVlHzB6W4QL2OlaI50igxFH?startTime=1587999301000&_x_zm_rtaid=tmhNIecARo2iBwSickvGFg.1588008757465.4df95704a67817b13f457e90b08cbc35&_x_zm_rhtaid=370)
 
-12) Вариационные автоэнкодеры. Нейронные сети для искусства
+12) [Вариационные автоэнкодеры. Нейронные сети для искусства](https://mailru.zoom.us/rec/share/y8ZzH57Cyj9LYbPnzFvURYQCH6fHaaa82iUZ__YPxUzQM4Jy_h_I88mfpuYdnjl7?startTime=1589294487000)
 
-13) Обучение с подкреплением 1
+13) [Обучение с подкреплением 1](https://mailru.zoom.us/rec/play/uZUlIbir_Do3TNWStwSDAqBwW9W7Ka-s1Cca8_oJzkfmB3gGYQGvNLUWYuc68YJNcdMejOOojPLSoeUP?autoplay=true&startTime=1589467716000)
 
-14) Обучение с подкреплением 2
+14) [Обучение с подкреплением 2](https://mailru.zoom.us/rec/play/uJd8cOGrqmk3G9XDswSDC_J-W9S4f_is0SUZq6EFyka9VXVWZlehYbNAYuHAku17ED_u1KT-45ecswdn?autoplay=true&startTime=1589813335000)
 
 ### Рубежный контроль № 1
 
